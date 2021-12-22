@@ -1,10 +1,11 @@
 # Music-Separation
 
 ## Training and loss
-![trian and test loss](https://user-images.githubusercontent.com/13598741/117584790-dfdc9100-b0dc-11eb-87a6-521ac43c1189.PNG)
+![trian and test loss]()
 
 + **Train**
      ``python wav.py .\musdb18\ .\musdb18_wav\``
+     
      ``python train.py .\musdb18_wav\ .\output\``
      
 + **Run**
